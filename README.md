@@ -32,4 +32,11 @@ Hand gestures are detected using the MPU6050 sensor. The sensor data is processe
 
 ## Author
 SP
+## Note
+This project is implemented by referring to an existing open-source example for nRF24L01-based motor control.
+The code has been studied, tested, and is being incrementally modified for learning and enhancement purposes.
+
 EEE | Embedded Systems | Machine Learning
+
+Reference:
+- Original concept/code inspired from: <[link](https://www.instructables.com/DIY-Hand-Gestures-Controlled-Car-Using-Arduino-NRf/)>
